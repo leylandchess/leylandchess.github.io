@@ -3,6 +3,13 @@ layout: default
 title: Home
 ---
 
-## This is the home page
-
 This is work in progress.  The official site is [here](http://www.leylandchess.org.uk).
+
+# Visit us
+
+We are a friendly chess club meeting around 7.30pm on Tuesdays.  The
+venue is the Broadfield Arms at 22 Leyland Lane, Leyland, PR25 1XH.
+
+<div class="spacer"></div>
+{% include google_map.html %}
+<div class="spacer"></div>
