@@ -1,3 +1,21 @@
+.navbar {
+  padding: 10px 0;
+}
+
+.navbar a {
+  margin-left: 15px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.navbar a:first-child {
+  margin-left: 0;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
 .spacer {
   height: 20px;
   width: 100%;
