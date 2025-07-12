@@ -17,3 +17,23 @@
   -o-box-shadow: none;
   -ms-box-shadow: none;
 }
+
+#GameButtons form {
+  background: none;
+  padding: 0;
+}
+
+#GameButtons td {
+  border: none;
+  padding: 0;
+}
+
+#GameButtons table {
+  border: none;
+  margin-bottom: 0;
+  text-align: initial;
+}
+
+.game-header {
+  font-weight: bold;
+}
