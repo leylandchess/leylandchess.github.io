@@ -1,19 +1,8 @@
 /* override settings from the theme, etc., which mess up the chessboards */
-.boardTable {
-width: 326px;
-height: 326px;
-border-width: 3px;
-}
-
-.whiteSquare,
-.blackSquare {
-width: 40px;
-height: 40px;
-}
-
 .boardTable td {
   padding: 0;
   border: none;
+  vertical-align: middle;
 }
 
 .boardTable img {
