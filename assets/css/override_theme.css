@@ -1,0 +1,30 @@
+/* override settings from the theme, etc., which mess up the chessboards */
+.boardTable {
+width: 326px;
+height: 326px;
+border-width: 3px;
+}
+
+.whiteSquare,
+.blackSquare {
+width: 40px;
+height: 40px;
+}
+
+.boardTable td {
+  padding: 0;
+  border: none;
+}
+
+.boardTable img {
+  position: static;
+  margin: 0;
+  max-width: none;
+  padding: 0;
+  border: none;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  -o-box-shadow: none;
+  -ms-box-shadow: none;
+}
