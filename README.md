@@ -43,20 +43,20 @@ like this:
 so that they appear in the navigation bar.  (Recall that Github generates
 `your_page.html` from `your_page.md`).
 
-### Blog Posts
+### Blog posts
 
 These **must** be created in the `_posts` directory with the date in the title
 in the form `YYYY-MM-DD-your-subject.md`.  That way they get correctly recognized
 by Github, and put in chrononlogical order on the blog page.
 
-### Chess Diagrams
+### Chess diagrams
 
 These use [pgn4web](http://pgn4web.casaschi.net).  Currently we support fixed
 FEN positions and navigable PGN games.  See the first two example blog posts
 for how to embed them.  Remember to use the `with-pgn` layout.  There can be
 at most one diagram per page at the moment.
 
-## Note for Developers
+## Note for developers
 
 Github uses [Jekyll](https://jekyllrb.com) to build the site.  You can set Jekyll
 up locally to render and test the site before pushing changes. There's a decent
