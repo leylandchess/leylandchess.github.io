@@ -1,6 +1,6 @@
 # Leyland Chess Web Site
 
-This is the code repository for the web site.
+This is the code repository for the [web site](https://leylandchess.github.io).
 
 ## Quick start for contributors
 
