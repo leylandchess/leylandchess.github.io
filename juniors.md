@@ -4,3 +4,8 @@ title: Juniors
 ---
 
 # Juniors
+
+We do
+- training
+- coaching
+- teaching
