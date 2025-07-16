@@ -14,5 +14,5 @@ We are a friendly chess club meeting around 7.30pm on Tuesdays.
 The venue is the Broadfield Arms at 22 Leyland Lane, Leyland, PR25 1XH.
 
 <div class="spacer"></div>
-{% include google_map.html %}
+{% include broadfield_map.html %}
 <div class="spacer"></div>
