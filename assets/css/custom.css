@@ -41,3 +41,11 @@
   height: 100%;
   border: 0;
 }
+
+#project_tagline .quote-line {
+  font-size: 0.8em;
+}
+
+#project_tagline .quote-author {
+  font-size: 0.7em;
+}
