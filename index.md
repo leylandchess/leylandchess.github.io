@@ -9,8 +9,10 @@ This is work in progress.  The official site is [here](http://www.leylandchess.o
 
 We are a friendly chess club meeting around 7.30pm on Tuesdays.
 
-![chess club picture](/assets/images/leyland_chess.jpeg)
+![cartoon chess utopia](/assets/images/leyland_chess_1.jpeg)
+A typical scene at the club
 
+<div class="spacer"></div>
 The venue is the Broadfield Arms at 22 Leyland Lane, Leyland, PR25 1XH.
 
 <div class="spacer"></div>
