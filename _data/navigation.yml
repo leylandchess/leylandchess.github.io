@@ -1,10 +1,17 @@
+# This file defines the entries in the navigation bar at the top of
+# every page, and their order.
+
+# Every new top level page should be added here.  (Github will generate
+# html files from markdown files, so link to them as .html even if you
+# write them as .md).
+#
 - title: Home
-  url: /
+  url: /index.html
 - title: Juniors
   url: /juniors.html
 - title: League
   url: /league.html
-- title: Blog
-  url: /blog.html
 - title: Congress
   url: /congress.html
+- title: Blog
+  url: /blog.html
