@@ -5,11 +5,10 @@ title: Juniors
 
 # Juniors
 
-We do
-- training
-- coaching
-- teaching
+Everyone is welcome at the main club, but Leyland additionally runs a
+junior club on Mondays 6-7pm during school terms.
 
+We offer teaching for beginners and coaching for more advanced players.
 
 The venue is Prospect House, 45 Sandy Ln, Leyland, PR25 2EE.
 
