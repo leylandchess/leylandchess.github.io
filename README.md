@@ -13,7 +13,7 @@ files end in .md - Github automatically generates the .html files for you.
 
 ### Layouts
 
-Top level pages which don't inlude chess diagrams should start with
+Top level pages which don't include chess diagrams should start with
 
 ```
 ---
@@ -46,8 +46,8 @@ so that they appear in the navigation bar.  (Recall that Github generates
 ### Blog posts
 
 These **must** be created in the `_posts` directory with the date in the title
-in the form `YYYY-MM-DD-your-subject.md`.  That way they get correctly recognized
-by Github, and put in chrononlogical order on the blog page.
+in the form `YYYY-MM-DD-your-subject.md`.  That way they get correctly recognised
+by Github, and put in chronological order on the blog page.
 
 ### Chess diagrams
 
