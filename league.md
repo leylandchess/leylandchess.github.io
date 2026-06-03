@@ -4,7 +4,7 @@ title: League
 ---
 
 The club has teams in
-[Blackpool and Fylde League](https://lms.englishchess.org.uk/lms/event/6806/fixtures)
+[Blackpool and Fylde League](https://lms.englishchess.org.uk/lms/organisation/430)
 and
-[Central Lancashire League](https://lms.englishchess.org.uk/lms/event/6827/fixtures).
+[Central Lancashire League](https://lms.englishchess.org.uk/https://lms.englishchess.org.uk/lms/organisation/779).
 
