@@ -3,6 +3,7 @@ remote_theme: pages-themes/slate
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 title: Leyland Chess Club
 description: ""
